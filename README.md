@@ -3,4 +3,4 @@ I'm Exploring Bio Conda and Bio Python Libraries.Here will share with you guys m
 
 # Biopython
 
-#### python is a programing language,
+#### Biopython is a programing language,
